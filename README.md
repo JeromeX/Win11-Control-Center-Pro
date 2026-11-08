@@ -84,6 +84,9 @@ No open-source license is granted by this repository. Public visibility on GitHu
 
 Windows is a trademark of Microsoft Corporation. Win11 Control Center Pro is an independent project and is not affiliated with, endorsed by, or sponsored by Microsoft. All third-party names and marks belong to their respective owners.
 
+<img width="2560" height="1380" alt="Win11 Control Center Pro 2 0 25 08 11 2026 11_15_15" src="https://github.com/user-attachments/assets/a8046ab0-51ee-47b1-b2b1-60264487b558" />
+
+
 ---
 
 <p align="center"><sub>Win11 Control Center Pro 2.0.25 · © 2026 Malte Speck</sub></p>
