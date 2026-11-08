@@ -84,6 +84,9 @@ Dieses Repository erteilt keine Open-Source-Lizenz. Die öffentliche Sichtbarkei
 
 Windows ist eine Marke der Microsoft Corporation. Win11 Control Center Pro ist ein unabhängiges Projekt und steht in keiner Verbindung zu Microsoft. Alle Drittanbieter- und Produktnamen gehören ihren jeweiligen Rechteinhabern.
 
+<img width="2560" height="1380" alt="Win11 Control Center Pro 2 0 25 08 11 2026 10_31_51" src="https://github.com/user-attachments/assets/ce903b24-0973-4b9d-b5bf-453c6d8c3afe" />
+
+
 ---
 
 <p align="center"><sub>Win11 Control Center Pro 2.0.25 · © 2026 Malte Speck</sub></p>
