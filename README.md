@@ -89,4 +89,4 @@ Windows is a trademark of Microsoft Corporation. Win11 Control Center Pro is an 
 
 ---
 
-<p align="center"><sub>Win11 Control Center Pro 2.0.25 · © 2026 Malte Speck</sub></p>
+<p align="center"><sub>Win11 Control Center Pro 2.0.28 · © 2026 Malte Speck</sub></p>
