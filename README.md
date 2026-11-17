@@ -88,7 +88,7 @@ Read [Safety & Data](docs/SAFETY-AND-DATA.md) before using system-changing featu
 Application logs and supported backup data are stored locally in the current user's profile under:
 
 ```text
-%LOCALAPPDATA%\\Win11ControlCenter\\
+%LOCALAPPDATA%\Win11ControlCenter\
 ```
 
 The separate uninstaller is designed to remove the application installation and its application shortcuts/registration while retaining the user's backup and log data. Review the confirmation shown by the uninstaller before proceeding.
