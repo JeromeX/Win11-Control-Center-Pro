@@ -5,7 +5,7 @@
   <p>
     <img src="https://img.shields.io/badge/Platform-Windows%2011-0078D4?logo=windows11&logoColor=white" alt="Windows 11" />
     <img src="https://img.shields.io/badge/Architecture-x64-475569" alt="64-bit x64" />
-    <img src="https://img.shields.io/badge/Version-2.0.25-16A34A" alt="Version 2.0.25" />
+    <img src="https://img.shields.io/badge/Version-2.0.28-16A34A" alt="Version 2.0.28" />
   </p>
   <p><a href="README.de.md">Deutsche Version</a> · <a href="docs/FEATURES.md">Features</a> · <a href="docs/SAFETY-AND-DATA.md">Safety &amp; Data</a> · <a href="docs/DOWNLOADS.md">Downloads</a></p>
 </div>
@@ -18,7 +18,7 @@
 
 The application is distributed as a **ready-to-run Windows executable**. This repository is intended for product information, user documentation, support information, and release downloads. It does not provide source code or build instructions.
 
-> **Current release:** 2.0.25 · **Application language:** English (United States) · **Platform:** Windows 11, 64-bit
+> **Current release:** 2.0.28 · **Application language:** English (United States) · **Platform:** Windows 11, 64-bit
 
 ## Main features
 
