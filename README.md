@@ -46,6 +46,27 @@ Only the released executable files are provided as application downloads. There 
 
 For download and first-start guidance, see [Downloads & First Start](docs/DOWNLOADS.md).
 
+## Trial editions — English
+
+The English (EN) client editions are offered as **trial versions** in this release. Both language editions use the same trial options:
+
+- **7-day Free Trial**
+- **30-day Free Trial**
+
+The paid terms (€25, €45 and €100) are **NOT YET RELEASED** and are not available for purchase.
+
+## Planned license pricing
+
+The following values are **planned display prices only**. The paid plans are **NOT YET RELEASED** and are not currently available as a public offer.
+
+| **Planned term**   | **Planned price** | **Release status**   |
+| ------------------ | ----------------- | -------------------- |
+| 1 year (365 days)  | €25               | **NOT YET RELEASED** |
+| 2 years (730 days) | €45               | **NOT YET RELEASED** |
+| Lifetime           | €100              | **NOT YET RELEASED** |
+
+The €25, €45 and €100 price points are not approved offers, cannot currently be purchased and do not promise availability. They remain subject to formal release approval and may change.
+
 ## System requirements
 
 - Windows 11, 64-bit (x64).
@@ -67,7 +88,7 @@ Read [Safety & Data](docs/SAFETY-AND-DATA.md) before using system-changing featu
 Application logs and supported backup data are stored locally in the current user's profile under:
 
 ```text
-%LOCALAPPDATA%\Win11ControlCenter\
+%LOCALAPPDATA%\\Win11ControlCenter\\
 ```
 
 The separate uninstaller is designed to remove the application installation and its application shortcuts/registration while retaining the user's backup and log data. Review the confirmation shown by the uninstaller before proceeding.
